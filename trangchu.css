@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+body{
+  font-family: arial;
+  font-size: medium;
+}
+
+.w3-display-container{
+  box-shadow: 5px 10px 8px #888888;
+}
